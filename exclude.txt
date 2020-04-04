@@ -1,0 +1,5 @@
+Assets
+ProjectSettings
+tempCaches
+AssetBundle
+Temp
